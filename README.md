@@ -1,4 +1,8 @@
-# Dio-desafio-Github
-Desafio de projeto - DIO
-##Links  uteis
-[Sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
+# Desafio Github/Git
+
+## Projeto DIO - Criar Repositório
+
+### *Links Úteis* 👇
+
+- [Sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
+
